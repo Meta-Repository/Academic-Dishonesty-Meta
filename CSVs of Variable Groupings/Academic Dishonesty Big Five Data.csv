@@ -1,0 +1,84 @@
+X,Y,Author(s),Year/Info,n,r,rxx,ryy
+Conscientiousness,Academic Dishonesty,Clariana,2013,620,-0.243,0.7,0.82
+Conscientiousness,Academic Dishonesty,Fezatte,,310,-0.24,0.9,0.819
+Conscientiousness,Academic Dishonesty,"Williams, Nathanson, & Paulhus",,249,-0.28,0.82,0.73
+Conscientiousness,Academic Dishonesty,"Williams, Nathanson, & Paulhus",,107,-0.06,0.78,0.57
+Conscientiousness,Academic Dishonesty,Gallagher,,205,0.03,0.83,0.8
+Conscientiousness,Academic Dishonesty,Bruin & Rudnick (From d),,683,-0.157,0.94,0.7
+Conscientiousness,Academic Dishonesty,Karim,2009 (Gau),252,-0.105,0.812,0.92
+Conscientiousness,Academic Dishonesty,Aslam,(Gau),932,-0.169,0.464,0.867
+Conscientiousness,Academic Dishonesty,Marcus,2007 (Gau),430,-0.49,0.873,0.929
+Conscientiousness,Academic Dishonesty,Clark,,220,-0.32,0.9,0.8
+Conscientiousness,Academic Dishonesty,Clause,,142,-0.08,0.8289,0.795
+Conscientiousness,Academic Dishonesty,Giluk,,377,-0.14,0.8289,0.795
+Conscientiousness,Academic Dishonesty,Nguyen,,278,-0.17,0.79,0.77
+Conscientiousness,Academic Dishonesty,Noel,,302,0.05,0.8289,0.795
+Conscientiousness,Academic Dishonesty,Salgado,,406,-0.19,0.9,0.87
+Conscientiousness,Academic Dishonesty,Siaputra,,362,-0.21,0.79,0.81
+Conscientiousness,Academic Dishonesty,Stanescu,,252,-0.21,0.9,0.819
+Conscientiousness,Academic Dishonesty,Stone,,241,-0.25,0.78,0.89
+Extraversion,Academic Dishonesty,Clariana,2013,620,0.084,0.62,0.82
+Extraversion,Academic Dishonesty,Fezatte,,310,0.07,0.89,0.819
+Extraversion,Academic Dishonesty,"Williams, Nathanson & Paulhus",,249,0.09,0.86,0.73
+Extraversion,Academic Dishonesty,"Williams, Nathanson & Paulhus",,107,0.08,0.88,0.57
+Extraversion,Academic Dishonesty,Gallagher,,208,0.13,0.79,0.8
+Extraversion,Academic Dishonesty,Jackson et al.,Gau,107,-0.04,0.83,0.75
+Extraversion,Academic Dishonesty,DeBruin,2006 (Gau),258,0.175,0.8242,0.795
+Extraversion,Academic Dishonesty,Karim,Gau,252,0.085,0.782,0.92
+Extraversion,Academic Dishonesty,Aslam,Gau,932,-0.071,0.494,0.867
+Extraversion,Academic Dishonesty,Marcus,Gau,430,0.13,0.886,0.929
+Extraversion,Academic Dishonesty,Clark,,220,0.03,0.9,0.8
+Extraversion,Academic Dishonesty,Giluk,,377,0.06,0.8242,0.795
+Extraversion,Academic Dishonesty,Nguyen,,278,0.1,0.91,0.77
+Extraversion,Academic Dishonesty,Noel,,302,0.01,0.8242,0.795
+Extraversion,Academic Dishonesty,Salgado,,406,-0.21,0.89,0.87
+Extraversion,Academic Dishonesty,Stanescu,,252,0.03,0.89,0.951
+Neuroticism,Academic Dishonesty,Donat et al.,,179,-0.04,0.64,0.75
+Neuroticism,Academic Dishonesty,Donat et al.,,203,0.03,0.64,0.77
+Neuroticism,Academic Dishonesty,Fezatte,,310,-0.03,0.92,0.819
+Neuroticism,Academic Dishonesty,"Williams, Nathanson, & Paulhus",,249,0.08,0.83,0.73
+Neuroticism,Academic Dishonesty,"Williams, Nathanson, & Paulhus",,107,-0.04,0.8,0.57
+Neuroticism,Academic Dishonesty,Gallagher,,207,0.17,0.79,0.8
+Neuroticism,Academic Dishonesty,Jackson et al.,Gau,107,0.11,0.88,0.75
+Neuroticism,Academic Dishonesty,Clariana,2013,620,0.126,0.76,0.82
+Neuroticism,Academic Dishonesty,Karim,Gau,252,0.105,0.829,0.92
+Neuroticism,Academic Dishonesty,Aslam,Gau,932,-0.027,0.547,0.867
+Neuroticism,Academic Dishonesty,Greenberger,Gau,353,0.03,0.92,0.88
+Neuroticism,Academic Dishonesty,Marcus,Gau,430,0.02,0.906,0.929
+Neuroticism,Academic Dishonesty,Clark,,220,0.17,0.9,0.8
+Neuroticism,Academic Dishonesty,Giluk,,377,0.02,0.7559,0.795
+Neuroticism,Academic Dishonesty,Nguyen,,278,0.13,0.86,0.77
+Neuroticism,Academic Dishonesty,Noel,,302,0.03,0.7559,0.795
+Neuroticism,Academic Dishonesty,Salgado,,406,0,0.92,0.87
+Neuroticism,Academic Dishonesty,Stanescu,,252,0.12,0.9,0.951
+Neuroticism,Academic Dishonesty,Stone,,241,0.14,0.89,0.89
+Openness,Academic Dishonesty,Clariana,2013,620,-0.018,0.65,0.82
+Openness,Academic Dishonesty,Fezatte,,310,-0.14,0.87,0.819
+Openness,Academic Dishonesty,"Williams, Nathanson, & Paulhus",,249,0.07,0.78,0.73
+Openness,Academic Dishonesty,"Williams, Nathanson, & Paulhus",,107,-0.09,0.71,0.57
+Openness,Academic Dishonesty,Gallagher,,205,0.18,0.8,0.8
+Openness,Academic Dishonesty,Karim,Gau,252,-0.038,0.773,0.92
+Openness,Academic Dishonesty,Aslam,Gau,932,-0.087,0.447,0.867
+Openness,Academic Dishonesty,Marcus,Gau,430,-0.06,0.866,0.929
+Openness,Academic Dishonesty,Clark,,220,-0.18,0.9,0.8
+Openness,Academic Dishonesty,Giluk,,377,-0.11,0.8133,0.795
+Openness,Academic Dishonesty,Nguyen,,278,-0.11,0.83,0.77
+Openness,Academic Dishonesty,Noel,,302,-0.07,0.8133,0.795
+Openness,Academic Dishonesty,Salgado,,406,-0.01,0.87,0.87
+Openness,Academic Dishonesty,Stanescu,,252,-0.03,0.87,0.951
+Agreeableness,Academic Dishonesty,Calriana,2013,620,-0.155,0.81,0.82
+Agreeableness,Academic Dishonesty,Fezatte,,310,-0.24,0.86,0.819
+Agreeableness,Academic Dishonesty,"Williams, Nathanson, & paulhus",,249,-0.23,0.81,0.73
+Agreeableness,Academic Dishonesty,"Williams, Nathanson, & paulhus",,107,-0.2,0.77,0.57
+Agreeableness,Academic Dishonesty,Gallagher,,207,0.04,0.8,0.75
+Agreeableness,Academic Dishonesty,Karim,Gau,252,-0.114,0.714,0.92
+Agreeableness,Academic Dishonesty,Aslam,Gau,932,-0.053,0.487,0.867
+Agreeableness,Academic Dishonesty,Coyne,Gau,234,-0.01,0.74,0.72
+Agreeableness,Academic Dishonesty,Staats,Gau,77,-0.39,0.93,0.716
+Agreeableness,Academic Dishonesty,Marcus,Gau,430,0.02,0.884,0.929
+Agreeableness,Academic Dishonesty,Clark,,220,-0.29,0.9,0.8
+Agreeableness,Academic Dishonesty,Giluk,,377,-0.13,0.8105,0.795
+Agreeableness,Academic Dishonesty,Nguyen,,278,-0.08,0.83,0.77
+Agreeableness,Academic Dishonesty,Noel,,302,0.09,0.8105,0.795
+Agreeableness,Academic Dishonesty,Salgado,,406,-0.14,0.86,0.87
+Agreeableness,Academic Dishonesty,Stanescu,,252,-0.1,0.9,0.951

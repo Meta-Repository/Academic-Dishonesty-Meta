@@ -1,0 +1,46 @@
+X,Y,Author(s),Year/Info,n,r,rxx,ryy
+Impulsivity,Academic Dishonesty,Bolin,,799,0.287,0.834,0.897
+Impulsivity,Academic Dishonesty,Gallagher,,208,0.25,0.83,0.83
+Impulsivity,Academic Dishonesty,Bichler & Tibbetts,Gau,263,0.52,0.55,0.79
+Impulsivity,Academic Dishonesty,Tibbets,Gau,598,0.14,0.86,0.602
+Impulsivity,Academic Dishonesty,McTernan,,616,0.43,0.79,0.602
+Morality/Honesty,Academic Dishonesty,Harding,Gau,527,-0.195,0.81,0.7
+Morality/Honesty,Academic Dishonesty,Lanza-Kadunce,Gau,175,-0.07,0.76,0.7
+Morality/Honesty,Academic Dishonesty,Staats,2008 (Gau),69,-0.27,0.716,0.716
+Morality/Honesty,Academic Dishonesty,Caruana,2000 (Gau),122,-0.164,0.71,0.91
+Morality/Honesty,Academic Dishonesty,Bodey,,170,-0.26,0.76,0.79
+Morality/Honesty,Academic Dishonesty,Malinowski,,70,-0.38,0.77,1
+Morality/Honesty,Academic Dishonesty,"Rensburg, Kock, & Derous",2018,308,-0.42,0.83,0.86
+Self-Esteem,Academic Dishonesty,Smith,Gau,106,-0.38,0.38,0.7
+Self-Esteem,Academic Dishonesty,Thorpe,1999 (Gau),310,-0.106,0.85,0.668
+Self-Esteem,Academic Dishonesty,Gallagher,,209,-0.11,0.75,0.8
+Self-Esteem,Academic Dishonesty,Brunell,,99,-0.09,0.85,0.82
+Self-Esteem,Academic Dishonesty,Fields,,290,0.053,0.85,0.78
+Self-Esteem,Academic Dishonesty,Anzivino,,252,-0.11,0.85,0.799
+Social Desirability,Academic Dishonesty,Thorpe,Gau,310,-0.267,0.8,0.668
+Social Desirability,Academic Dishonesty,Antion,Gau,148,-0.23,0.88,1
+Social Desirability,Academic Dishonesty,Jackson,Gau,109,-0.21,0.79,0.75
+Social Desirability,Academic Dishonesty,Harding,Gau,527,-0.21,0.8,0.7
+Social Desirability,Academic Dishonesty,Gallagher,,208,-0.26,0.88,0.8
+Type A,Academic Dishonesty,Weiss,Gau,182,-0.166,0.78,0.78
+Type A,Academic Dishonesty,Davis,Gau,168,-0.096,0.78,0.795
+Type A,Academic Dishonesty,Huss,Gau,220,-0.12,0.78,0.779
+Type A,Academic Dishonesty,Fuse,,48,0.032,0.72,0.86
+Narcissism,Academic Dishonesty,"Brunell, Staats…",,99,0.23,0.83,0.82
+Narcissism,Academic Dishonesty,Greenberger,,353,0.22,0.86,0.88
+Narcissism,Academic Dishonesty,"Williams, Nathason…",,228,0.2,0.87,0.73
+Narcissism,Academic Dishonesty,"Williams, Nathason…",,107,0.12,0.87,0.57
+Narcissism,Academic Dishonesty,Faulkner,,195,0.086,0.811,0.867
+Narcissism,Academic Dishonesty,Romanek,,106,0.251,0.83,0.78
+Narcissism,Academic Dishonesty,Turnipseed & Landay,2018,519,0.08,0.81,0.7
+Psychopathy,Academic Dishonesty,"Williams, Nathanson…",,228,0.58,0.88,0.73
+Psychopathy,Academic Dishonesty,"Williams, Nathanson…",,107,0.22,0.88,0.57
+Psychopathy,Academic Dishonesty,Coyne & Thomas,,234,0.44,0.73,0.72
+Psychopathy,Academic Dishonesty,Turnipseed & Landay,2018,519,0.12,0.7,0.81
+Locus of Control,Academic Dishonesty,Antion,Gau,148,-0.13,0.65,1
+Locus of Control,Academic Dishonesty,Thorpe,Gau,310,-0.164,0.738,0.668
+Locus of Control,Academic Dishonesty,Gallagher,,209,-0.25,0.84,0.8
+Religiosity,Academic Dishonesty,Bloodgood,2008,230,-0.17,0.7,1
+Religiosity,Academic Dishonesty,Retinger,,154,-0.22,0.959,0.895
+Religiosity,Academic Dishonesty,Nelson,,256,-0.11,0.81,0.9
+Religiosity,Academic Dishonesty,Williams,2018,830,-0.256,0.803,0.892

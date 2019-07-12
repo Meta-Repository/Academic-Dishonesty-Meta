@@ -1,0 +1,64 @@
+X,Y,Author(s),Year/Info,n,r,rxx,ryy
+Gender,Academic Dishonesty,Antion & Michael,,148,0.13,1,1
+Gender,Academic Dishonesty,Bing et al.,,104,-0.04,1,1
+Gender,Academic Dishonesty,"Brunell, Staats, Barden, & Hupp",,99,0.13,1,0.82
+Gender,Academic Dishonesty,Storch & Storch,,244,0.277,1,0.9
+Gender,Academic Dishonesty,McCabe & Trevino,,1645,0.08,1,0.83
+Gender,Academic Dishonesty,Tibbets,,598,0.03,1,0.8
+Gender,Academic Dishonesty,"Marsden, Carroll, & Niells",Composite,954,0.1342,1,0.85
+Gender,Academic Dishonesty,Bloodgood,,230,0.1,1,0.7
+Gender,Academic Dishonesty,Wedge,,70,0.04,1,1
+Gender,Academic Dishonesty,Nelson,,256,0.19,1,0.9
+Gender,Academic Dishonesty,Lansing,,299,0.242,1,0.934
+Gender,Academic Dishonesty,Fields,,123,0.051,1,0.78
+Gender,Academic Dishonesty,Chase,,2300,0.013,1,0.782
+Gender,Academic Dishonesty,Turnipseed & Landay,2018,519,0.1,1,0.7
+Gender,Academic Dishonesty,Lonsdale,2017,175,0.07,1,0.77
+Gender,Academic Dishonesty,"Rensburg, Kock, & Derous",2018,308,0.18,1,0.86
+Age,Academic Dishonesty,Antion & Michael,,148,0.34,1,1
+Age,Academic Dishonesty,Bing et al.,,104,-0.04,1,1
+Age,Academic Dishonesty,"Brunell, Staats, Barden, & Hupp",,99,-0.24,1,0.82
+Age,Academic Dishonesty,McCabe & Trevino,,1412,-0.21,1,0.83
+Age,Academic Dishonesty,Bichler & Tibbetts,,263,-0.2,1,0.79
+Age,Academic Dishonesty,Diekhoff et al. (From d),,379,-0.52,1,0.602
+Age,Academic Dishonesty,Diekhoff et al. (From d),,474,-0.413,1,0.602
+Age,Academic Dishonesty,Haines et al.,,379,-0.4,1,0.602
+Age,Academic Dishonesty,"Vendehey, Diekhoff, & LaBeff",,401,-0.208,1,0.602
+Age,Academic Dishonesty,Tibbets,,598,-0.04,1,0.602
+Age,Academic Dishonesty,"Marsden, Carroll, & Niells",Composite,954,-0.2799,1,0.905
+Age,Academic Dishonesty,Bodey,,170,0.12,1,0.79
+Age,Academic Dishonesty,Faulkner,,157,0.098,1,0.867
+Age,Academic Dishonesty,Wedge,,70,-0.33,1,1
+Age,Academic Dishonesty,Nelson,,256,0.03,1,0.9
+Age,Academic Dishonesty,Lansing,,299,0.204,1,0.934
+Age,Academic Dishonesty,Chase,,2300,-0.008,1,0.782
+Age,Academic Dishonesty,Zimmerman,,2441,-0.273,1,0.799
+Age,Academic Dishonesty,Turnipseed & Landay,2018,519,0.01,1,0.7
+Age,Academic Dishonesty,Lonsdale,2017,175,-0.05,1,0.77
+Age,Academic Dishonesty,"Rensburg, Kock, & Derous",2018,308,-0.25,1,0.86
+Greek Membership,Academic Dishonesty,Storch & Storch,,244,0.205,1,0.9
+Greek Membership,Academic Dishonesty,McCabe & Trevino,,1645,0.17,1,0.83
+Greek Membership,Academic Dishonesty,Diekhoff et al.,,474,0.108,1,0.602
+Greek Membership,Academic Dishonesty,Haines et al.,,378,0.17,1,0.602
+Greek Membership,Academic Dishonesty,"Vendehey, Diekhoff, & LaBeff (From Chi^2)",,401,0.128,1,0.602
+Greek Membership,Academic Dishonesty,Lansing,,299,0.261,1,0.602
+Marital Status,Academic Dishonesty,Diekhoff et al.,,474,-0.318,1,0.602
+Marital Status,Academic Dishonesty,Haines et al.,,379,-0.33,1,0.602
+Marital Status,Academic Dishonesty,"Vendehey, Diekhoff, & LaBeff",,401,-0.159,1,0.602
+Academic Performance,Academic Dishonesty,Roig & DeTommaso,Averaged cheating/plagiarism,58,-0.24,0.93,0.81
+Academic Performance,Academic Dishonesty,Antion & Michael,,148,-0.2,0.93,1
+Academic Performance,Academic Dishonesty,Baird,,200,-0.34,0.93,0.943
+Academic Performance,Academic Dishonesty,"Brunell, Staats, Barden, & Hupp",,99,-0.14,0.93,0.82
+Academic Performance,Academic Dishonesty,McCabe & Trevino,,1645,-0.22,0.93,0.83
+Academic Performance,Academic Dishonesty,Diekhoff et al.,,379,-0.225,0.93,0.602
+Academic Performance,Academic Dishonesty,Diekhoff et al.,,474,-0.135,0.93,0.602
+Academic Performance,Academic Dishonesty,Greenberger et al.,,353,-0.05,0.93,0.88
+Academic Performance,Academic Dishonesty,Haines et al.,,314,-0.23,0.93,0.602
+Academic Performance,Academic Dishonesty,"Vendehey, Diekhoff, & LaBeff",,401,-0.19,0.93,0.602
+Academic Performance,Academic Dishonesty,Clariana,2012,171,-0.26,0.93,0.85
+Academic Performance,Academic Dishonesty,Tibbets,,598,-0.04,0.93,0.602
+Academic Performance,Academic Dishonesty,"Marsden, Carroll, & Niells",Composite,954,-0.175,0.93,0.85
+Academic Performance,Academic Dishonesty,Bodey,,170,-0.22,0.93,0.79
+Academic Performance,Academic Dishonesty,Nelson,,256,-0.16,0.93,0.9
+Academic Performance,Academic Dishonesty,Chase,,2300,-0.037,0.93,0.782
+Academic Performance,Academic Dishonesty,Johnson,2018,277,-0.12,0.93,0.81

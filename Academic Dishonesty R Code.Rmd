@@ -1,0 +1,141 @@
+---
+title: "Untitled"
+author: "Samuel Lee"
+date: "May 31, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#Table of all variables
+#Also the main Meta analysis object
+```{r}
+Dat <- read.csv(file="C:/Users/Leex7833/Desktop/Academic Dishonesty Project/CSVs of Variable Groupings/Academic Dishonesty Data in One Page.csv")
+Dat <- Dat[!is.na(Dat$r),]
+View(Dat)
+maDat <- ma_r(ma_method = "ic",
+               rxyi = Dat$r, n = Dat$n,
+               construct_x = Dat$X,
+               construct_y = Dat$Y,
+               rxx = Dat$rxx,
+               ryy = Dat$ryy,
+               data = Dat
+               )
+summary(maDat)
+
+maDat <- heterogeneity(maDat)
+out_heterogeneity <- get_heterogeneity(maDat)
+out_heterogeneity$`analysis id: 7`$barebones #Change number here
+
+Funnel <- plot_funnel(ma_obj = maDat)
+
+out_plots <- get_plots(Funnel)
+
+
+metabulate(maDat, file = "Meta-analysis table of All AD Variables.rtf")
+
+
+```
+#Table of Big Five
+```{r}
+BFDat <- read.csv(file="C:/Users/Leex7833/Desktop/Academic Dishonesty Project/CSVs of Variable Groupings/Academic Dishonesty Big Five Data.csv")
+BFDat <- BFDat[!is.na(BFDat$r),]
+#View(BFDat)
+
+maBFDat <- ma_r(ma_method = "ic",
+               rxyi = BFDat$r, n = BFDat$n,
+               construct_x = BFDat$X,
+               construct_y = BFDat$Y,
+               rxx = BFDat$rxx,
+               ryy = BFDat$ryy,
+               data = BFDat
+               )
+summary(maBFDat)
+
+maBFDat <- heterogeneity(maBFDat)
+out_heterogeneity <- get_heterogeneity(maBFDat)
+out_heterogeneity$`analysis id: 5`$barebones
+
+#View(summary(maDat))
+#metatab_list <- get_metatab(maDat)
+#DatTibble <- metatab_list$individual_correction$true_score
+#View(DatTibble)
+
+metabulate(maBFDat, file = "Meta-analysis table of Big Five AD Variables.rtf")
+```
+#Table of other Personality Variables
+```{r}
+OPDat <- read.csv(file="C:/Users/Leex7833/Desktop/Academic Dishonesty Project/CSVs of Variable Groupings/Academic Dishonesty Other Personality Data.csv")
+OPDat <- OPDat[!is.na(OPDat$r),]
+View(OPDat)
+
+maOPDat <- ma_r(ma_method = "ic",
+               rxyi = OPDat$r, n = OPDat$n,
+               construct_x = OPDat$X,
+               construct_y = OPDat$Y,
+               rxx = OPDat$rxx,
+               ryy = OPDat$ryy,
+               data = OPDat
+               )
+#View(summary(maOPDat))
+
+maOPDat <- heterogeneity(maOPDat)
+out_heterogeneity <- get_heterogeneity(maOPDat)
+out_heterogeneity$`analysis id: 8`$barebones
+
+
+metabulate(maOPDat, file = "Meta-analysis table of Other Personality AD Variables.rtf")
+```
+#Table of Academic Attitude Variables
+```{r}
+AttDat <- read.csv(file="C:/Users/Leex7833/Desktop/Academic Dishonesty Project/CSVs of Variable Groupings/Academic Dishonesty Academic Attitude Variables.csv")
+AttDat <- AttDat[!is.na(AttDat$r),]
+#View(AttDat)
+
+maAttDat <- ma_r(ma_method = "ic",
+               rxyi = AttDat$r, n = AttDat$n,
+               construct_x = AttDat$X,
+               construct_y = AttDat$Y,
+               rxx = AttDat$rxx,
+               ryy = AttDat$ryy,
+               data = AttDat
+               )
+
+maAttDat <- heterogeneity(maAttDat)
+out_heterogeneity <- get_heterogeneity(maAttDat)
+out_heterogeneity$`analysis id: 3`$barebones
+
+
+metabulate(maAttDat, file = "Meta-analysis table of Academic Attitudes AD Variables.rtf")
+```
+
+
+```{r}
+DemDat <- read.csv(file="C:/Users/Leex7833/Desktop/Academic Dishonesty Project/CSVs of Variable Groupings/Academic Dishonesty Demographic Data.csv")
+DemDat <- DemDat[!is.na(DemDat$r),]
+#View(DemDat)
+
+maDemDat <- ma_r(ma_method = "ic",
+               rxyi = DemDat$r, n = DemDat$n,
+               construct_x = DemDat$X,
+               construct_y = DemDat$Y,
+               rxx = DemDat$rxx,
+               ryy = DemDat$ryy,
+               data = DemDat
+               )
+
+maDemDat <- heterogeneity(maDemDat)
+out_heterogeneity <- get_heterogeneity(maDemDat)
+out_heterogeneity$`analysis id: 5`$barebones
+
+metabulate(maDemDat, file = "Meta-analysis table of Demographic AD Variables.rtf")
+```
+
+
+
+
+
+

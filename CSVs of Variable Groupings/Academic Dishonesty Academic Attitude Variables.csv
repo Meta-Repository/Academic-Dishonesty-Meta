@@ -1,0 +1,38 @@
+X,Y,Author(s),Year/Info,n,r,rxx,ryy
+Neutralization,Academic Dishonesty,Diekhoff et al. (From d),Gau,379,0.334,0.93,0.602
+Neutralization,Academic Dishonesty,Diekhoff et al. (From d),Gau,474,0.284,0.93,0.602
+Neutralization,Academic Dishonesty,"Diekhoff, Labeff, Shinhara, & Yasukawa",Gau,392,0.255,0.93,0.602
+Neutralization,Academic Dishonesty,"Diekhoff, Labeff, Shinhara, & Yasukawa",Gau,276,0.39,0.93,0.602
+Neutralization,Academic Dishonesty,"Vendehey, Diekhoff, & LaBeff (Dich)",,401,0.323,0.93,0.602
+Neutralization,Academic Dishonesty,"Ellahi, Mushtaq, & Khan",,450,0.25,0.94,0.85
+Neutralization,Academic Dishonesty,Curasi,,327,0.765,0.9,0.81
+Neutralization,Academic Dishonesty,Staats,2008 (Gau),69,0.47,0.92,0.716
+Neutralization,Academic Dishonesty,Rettinger,2005 (Gau),154,0.35,0.93,0.895
+Neutralization,Academic Dishonesty,Rettinger,2009 (Gau),154,0.258,0.93,0.895
+Neutralization,Academic Dishonesty,O'Rourke,Gau,153,0.52,0.93,0.81
+Neutralization,Academic Dishonesty,Pulvers,Gau,277,0.238,0.93,0.602
+Neutralization,Academic Dishonesty,Haines,Gau,206,0.335,0.93,0.602
+Neutralization,Academic Dishonesty,Faulkner,,157,0.61,0.952,0.867
+Neutralization,Academic Dishonesty,Ward,,44,0.018,0.893,1
+Neutralization,Academic Dishonesty,Ward,,84,0.366,0.893,1
+Neutralization,Academic Dishonesty,Storch,,244,0.192,0.969,1
+Neutralization,Academic Dishonesty,Meng,,620,0.589,0.93,0.926
+Neutralization,Academic Dishonesty,Arvidson,,463,0.207,0.969,0.917
+Academic Self-Efficacy,Academic Dishonesty,"Marsden, Carroll, & Niells",Composite,954,-0.2333,0.85,0.905
+Academic Self-Efficacy,Academic Dishonesty,Finn & Frone,,315,-0.3,0.77,0.75
+Academic Self-Efficacy,Academic Dishonesty,Wedge,,70,0.24,0.861,1
+Academic Self-Efficacy,Academic Dishonesty,Johson,2018,277,-0.21,0.93,0.81
+Grade Orientation,Academic Dishonesty,Huss,Gau,220,0.29,0.68,0.779
+Grade Orientation,Academic Dishonesty,Marsden,Gau,945,0.06,0.53,0.905
+Grade Orientation,Academic Dishonesty,Norton,Gau,259,0.08,0.929,0.914
+Grade Orientation,Academic Dishonesty,Rettinger,2005 (Gau),154,0.43,0.68,0.895
+Grade Orientation,Academic Dishonesty,Rettinger,2009 (Gau),154,0.249,0.68,0.895
+Grade Orientation,Academic Dishonesty,Rettinger,2004 (Gau),103,0.44,0.68,0.895
+Grade Orientation,Academic Dishonesty,Weiss,Gau,182,0.199,0.68,0.78
+Learning Orientation,Academic Dishonesty,Huss,Gau,220,-0.23,0.66,0.779
+Learning Orientation,Academic Dishonesty,Marsden,Gau,945,-0.163,0.45,0.905
+Learning Orientation,Academic Dishonesty,Norton,Gau,259,-0.1,0.901,0.914
+Learning Orientation,Academic Dishonesty,Rettinger,2005 (Gau),154,-0.15,0.66,0.895
+Learning Orientation,Academic Dishonesty,Rettinger,2009 (Gau),154,-0.067,0.66,0.895
+Learning Orientation,Academic Dishonesty,Rettinger,2004 (Gau),103,-0.22,0.66,0.895
+Learning Orientation,Academic Dishonesty,Weiss,Gau,182,-0.167,0.66,0.78
